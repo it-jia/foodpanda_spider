@@ -1,0 +1,164 @@
+{
+    "accepts_instructions": false,
+    "address": "(X)高雄市新興區七賢一路291.293號  食品業者登錄字號:E-116097091-00287-2", # 地址
+    "address_line2": "",
+    "budget": 3, # 預算(價位)
+    "chain": {
+      "code": "cf4ah",
+      "main_vendor_code": "y1by",
+      "name": "STARBUCKS 星巴克",
+      "url_key": "starbucks-xing-ba-ke"
+    },
+    "characteristics": {
+      "cuisines": [ # 料理種類
+        {
+          "id": 179,
+          "main": true,
+          "name": "美式",
+          "url_key": "american"
+        }
+      ],
+      "food_characteristics": [ # 食物特色
+        {
+          "id": 55,
+          "is_halal": false, # 表示與穆斯林法律規定的肉類有關
+          "is_vegetarian": false, # 素食
+          "name": "<店內價>"
+        },
+        {
+          "id": 239,
+          "is_halal": false,
+          "is_vegetarian": false,
+          "name": "<買一送一>"
+        },
+        {
+          "id": 191,
+          "is_halal": false,
+          "is_vegetarian": false,
+          "name": "咖啡輕食"
+        }
+      ],
+      "primary_cuisine": { # 主菜(主要食物類型)
+        "id": 179,
+        "main": true,
+        "name": "美式",
+        "url_key": "american"
+      }
+    },
+    "city": { # 城市
+      "name": "KaoHsiung City"
+    },
+    "code": "g1mk",
+    "cuisines": [
+      {
+        "id": 179,
+        "main": true,
+        "name": "美式",
+        "url_key": "american"
+      }
+    ],
+    "custom_location_url": "",
+    "customer_type": "all", # 客戶類型
+    "delivery_box": "",
+    "delivery_fee_type": "amount", # 運費類型：金額
+    "delivery_provider_id": 0,
+    "description": "", # 描述
+    "discounts": [], # 折扣
+    "discounts_info": [], # 折扣訊息
+    "distance": 0.90624949, # 距離
+    "food_characteristics": [
+      {
+        "id": 55,
+        "is_halal": false,
+        "is_vegetarian": false,
+        "name": "<店內價>"
+      },
+      {
+        "id": 239,
+        "is_halal": false,
+        "is_vegetarian": false,
+        "name": "<買一送一>"
+      },
+      {
+        "id": 191,
+        "is_halal": false,
+        "is_vegetarian": false,
+        "name": "咖啡輕食"
+      }
+    ],
+    "has_delivery_provider": false, # 有外送提供商
+    "has_online_payment": true, # 有在線支付
+    "hero_image": "https://images.deliveryhero.io/image/fd-tw/LH/g1mk-hero.jpg", # 餐廳圖片
+    "hero_listing_image": "https://images.deliveryhero.io/image/fd-tw/LH/g1mk-listing.jpg", # 餐廳圖片(位於列表顯示)
+    "id": 84461,
+    "is_active": true, # 是活躍的
+    "is_best_in_city": false, # 在城市內最好的
+    "is_checkout_comment_enabled": false, # 是否啟用結帳評論
+    "is_delivery_enabled": true, # 是否啟用外送
+    "is_new": false, # 是新開的
+    "is_new_until": "2020-12-16T00:00:00Z", # 直到何時之前是新開的
+    "is_pickup_enabled": true, # 是否啟用自行取貨
+    "is_premium": false, # 是獨特的?
+    "is_preorder_enabled": false, # 是否啟用預購
+    "is_promoted": false,
+    "is_replacement_dish_enabled": false,
+    "is_service_fee_enabled": false, # 是否啟用服務費
+    "is_service_tax_enabled": false, # 是否啟用服務稅
+    "is_service_tax_visible": false, # 服務稅是否可見
+    "is_test": false, # 是測試
+    "is_vat_disabled": false, # 增值稅禁用
+    "is_vat_included_in_product_price": true, # 產品價格中是否包含增值稅
+    "is_vat_visible": false, # 增值稅可見
+    "is_voucher_enabled": true, # 是否啟用優惠券
+    "latitude": 22.6339686, # 緯度
+    "logo": "",
+    "longitude": 120.3090764, # 經度
+    "loyalty_percentage_amount": 0,
+    "loyalty_program_enabled": false,
+    "maximum_express_order_amount": 0, # 最大快遞訂單金額
+    "metadata": {
+      "available_in": null,
+      "close_reasons": [],
+      "events": [],
+      "has_discount": true, # 是否有折扣
+      "is_delivery_available": true, # 是否可以外送
+      "is_express_delivery_available": false, # 是否提供外送服務
+      "is_flood_feature_closed": false,
+      "is_pickup_available": true, # 是否可以自行取貨
+      "is_temporary_closed": false, # 是否暫時關閉
+      "timezone": "Asia/Taipei" # 時區
+    },
+    "minimum_delivery_fee": 19, # 最低外送費
+    "minimum_delivery_time": 20, # 最短外送時間
+    "minimum_order_amount": 79, # 最低訂購金額
+    "minimum_pickup_time": 10, # 最短自行取貨時間
+    "name": "STARBUCKS 星巴克 (七賢門市)", # 餐廳名稱
+    "payment_types": [], # 付款類型
+    "post_code": "800009", # 郵遞區號
+    "premium_position": 0,
+    "primary_cuisine_id": 179, # 主要菜系 ID
+    "rating": 4.8, # 評分
+    "redirection_url": "https://foodpanda.com.tw/restaurant/g1mk/starbucks-xing-ba-ke-qi-xian-men-shi", # 重定向網址(餐廳在foodpanda上網址)
+    "review_number": 246, # 評論數
+    "review_with_comment_number": 0, # 評論回覆數
+    "schedules": [], # 營業時間(需使用'餐廳基本資料與菜單'請求來取得)
+    "score": 0, # 得分
+    "service_fee_percentage_amount": 0, # 服務費百分比金額
+    "service_tax_percentage_amount": 0, # 服務稅百分比金額
+    "special_days": [], # 特殊日子營業時間(需使用'餐廳基本資料與菜單'請求來取得)
+    "tag": "大杯美式咖啡買一送一",
+    "tags": [
+      {
+        "code": "DEAL",
+        "text": "大杯美式咖啡買一送一"
+      }
+    ],
+    "url_key": "starbucks-xing-ba-ke-qi-xian-men-shi",
+    "vat_percentage_amount": 0, # 增值稅百分比金額
+    "vendor_points": 7124, # 供應商積分?
+    "vertical": "restaurants", # 垂直?
+    "vertical_parent": "restaurants", # 垂直父級
+    "vertical_segment": "restaurants", # 垂直部分
+    "web_path": "https://foodpanda.com.tw/restaurant/g1mk/starbucks-xing-ba-ke-qi-xian-men-shi", # 網址(餐廳在foodpanda上網址)
+    "website": ""
+  }
